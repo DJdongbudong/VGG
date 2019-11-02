@@ -12,8 +12,8 @@ tree|
          ----|dog----|*.jpg\*.jpg\*.jpg...
 '''
 
-![image](https://github.com/DJdongbudong/VGG/blob/master/resource/readme_images/2019-11-02_211758.png)
+[image](https://github.com/DJdongbudong/VGG/blob/master/resource/readme_images/2019-11-02_211758.png)
 
-![image](https://github.com/DJdongbudong/VGG/blob/master/resource/readme_images/20191101203739740.png)
+[image](https://github.com/DJdongbudong/VGG/blob/master/resource/readme_images/20191101203739740.png)
 
 # 更新中
