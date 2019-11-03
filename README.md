@@ -2,6 +2,7 @@
 # VGG-keras
 '''
 三部曲，数据、模型、训练（融合到一个文档了）
+[csdn](https://blog.csdn.net/weixin_41275726/article/details/102864307)
 '''
 > python no_3_train.py
 '''
